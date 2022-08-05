@@ -9,6 +9,7 @@
 - [Sameed Khan](https://github.com/Sameedkhan25)
 - [Souradeep Das](https://github.com/shadesin)
 - [Hari om Singh](https://github.com/Harixomxsingh)
+- [Yashaswee Kesharwani](https://github.com/yashaswee-dev)
 - [Darian Ngo](https://github.com/itsDarianNgo)
 - [Louka Tran](https://github.com/loukacodes)
 - [Dave Collison](https://github.com/thebigdavec)
